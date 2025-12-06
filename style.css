@@ -1,0 +1,25 @@
+body
+{
+    background-color: bisque;
+}
+.c
+{
+    background-color: crimson;
+}
+.container
+{
+    background-color: blueviolet;
+}
+.container-fluid
+{
+    background-color: chocolate;
+}
+.nav
+{
+    width: 29px;
+     background-color: darkblue;
+     color: white;
+        padding: 10px;
+    border-radius: 5px;
+    height:auto;
+}
